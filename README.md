@@ -1,6 +1,6 @@
 # Text_Classification_Drug_Review_Topic_Modelling
 
-##**Overview**
+## **Overview**
 
 This repository contains a Jupyter Notebook for text classification and topic modeling. The project applies natural language processing (NLP) techniques to categorize text data and uncover latent topics within a dataset. The dataset primarily focuses on the healthcare industry, particularly drug-related data, to derive insights and enhance decision-making.
 
